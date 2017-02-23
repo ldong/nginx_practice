@@ -214,6 +214,10 @@ http {
 
 ```
 
+## Look up logs
+
+`tail -f /var/log/nginx/access.log`
+
 ## Reference
 
 1. https://github.com/moonbingbing/openresty-best-practices/blob/master/ngx/reverse_proxy.md
